@@ -1,4 +1,4 @@
-# rdx-ui-modal
+# rdx-ui-spinner
 
 Spinner for react redux app.
 
